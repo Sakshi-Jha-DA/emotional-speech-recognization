@@ -1,2 +1,2 @@
 # emotional-speech-recognization
-**#dowwnload data from Link**
+**#download data from Link**
